@@ -17,6 +17,8 @@ Data science virtual internship programme by British Airways through Forage!
 - preparing a powerpoint representation to highlight our insights and analysis
 
 # Important Task:
+* Business Problem: Optimizing British Airways Operations and Customer Experience reviews, Predict Customer Buying Behavior.
+  
 * Web Scraping: Extracted diverse customer reviews from the specified URL using Python and BeautifulSoup.
 
 * Data Cleaning: Employed parsing, regular expression, stemming, lemmatization, and stopwords removal for structured data.
@@ -25,9 +27,10 @@ Data science virtual internship programme by British Airways through Forage!
 
 * Visualization: Created graphical representations with Matplotlib and Seaborn for pattern identification.
 
-* Predictive Modeling: Developed a classification model for predicting customer buying behavior.
-
-* Presentation: Compiled insights into a PowerPoint, offering actionable information for strategic decision-making and 
- enhancing customer satisfaction at British 
+* Analyzed 1000 Customer Reviews, Resulting in 538 Positive, 347 Negative, and 115 Neutral Sentiments, Offering 
+  Comprehensive Insights for Actionable Decision-Making.
+ 
+* Achieved 85.09% accuracy with Random Forest, extra baggage preference, and length of stay as pivotal in shaping customer 
+  buying behavior.
 
 **Completion Certificate link**:[Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_qKCmHu97XZS2uQfCh_1698651864103_completion_certificate.pdf)
