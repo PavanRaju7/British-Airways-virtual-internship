@@ -25,8 +25,6 @@ Data science virtual internship programme by British Airways through Forage!
 
 * Sentiment Analysis: Used NLP and machine learning to categorize reviews as positive or negative.
 
-* Visualization: Created graphical representations with Matplotlib and Seaborn for pattern identification.
-
 * Analyzed 1000 Customer Reviews, Resulting in 538 Positive, 347 Negative, and 115 Neutral Sentiments, Offering 
   Comprehensive Insights for Actionable Decision-Making.
  
